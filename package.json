@@ -5,7 +5,7 @@
   "main": "index.svg",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/avaisadev/github.git"
+    "url": "git+https://github.com/avaisadev/securly.git"
   },
   "files": [
     "*.html",
@@ -21,7 +21,7 @@
   "author": "securlyscraper",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/avaisadev/github/issues"
+    "url": "https://github.com/avaisadev/securly/issues"
   },
-  "homepage": "https://github.com/avaisadev/github/tree/main#readme"
+  "homepage": "https://github.com/avaisadev/securly/tree/main#readme"
 }
