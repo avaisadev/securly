@@ -1,5 +1,5 @@
 {
-  "name": "@securlytestingscrape/diagnostics",
+  "name": "@securlytestingscrape/beta",
   "version": "1.0.0",
   "description": "utility collection for goguardian and securly environment scraping and testing",
   "main": "index.svg",
